@@ -1,5 +1,11 @@
-body
+#body
 {
     display: flex;
     justify-content: center;
+}
+
+.calculadora
+{
+    height: 100px;
+    width: 100px;
 }
